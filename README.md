@@ -1,2 +1,6 @@
-# coding-portfolio
-All projects and tasks implemented in Python.
+## coding-portfolio
+Задачи и проекты, выполненные с использованием Python.
+
+####Папки:
++ stepik - заздачи, решенные в рамках прохождения курса https://stepik.org/course/217/promo;
++ work-projects - некоторые задачи, выполненные в рамках стажировки и работы в PwC.
